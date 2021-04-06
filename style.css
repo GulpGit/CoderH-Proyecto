@@ -1,0 +1,33 @@
+
+.imagenfondo {
+    background-image:url('./image/OIU9I70Tra5.png');
+}
+
+.sectionClassTemp{
+    height:0;
+    width:20%;
+    padding-bottom:20%
+}
+
+.footer {
+    background-color: #ECEFF1;
+}
+
+.sectionfooter {
+    background-color:slategray;
+}
+
+.h1titulo {
+    font-family: 'Blinker', sans-serif;
+    font-weight: 700;
+}
+
+.h1subtitulo {
+    font-family: 'Blinker', sans-serif;
+    font-weight: 400;
+}
+
+.h2titulo {
+    font-family: 'Blinker', sans-serif;
+    font-weight: 400;
+}
