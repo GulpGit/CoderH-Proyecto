@@ -32,6 +32,15 @@
     }
   ],
   "profile": {
-    "name": "typicode"
+    "id": 100,
+    "name": "Comprador"
+  },
+  {
+    "id": 101,
+    "name": "Exportador"
+  },
+  {
+    "id": 102,
+    "name": "Mayorista"
   }
 }
