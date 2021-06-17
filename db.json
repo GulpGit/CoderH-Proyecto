@@ -3,31 +3,26 @@
     {
       "id": 1,
       "name": "iPhone 6",
-      "precio": 40000,
       "stock": 8
     },
     {
       "id": 2,
       "name": "Tv 42 pulgadas",
-      "precio": 45000,
       "stock": 0
     },
     {
       "id": 3,
       "name": "Playstation",
-      "precio": 25000,
       "stock": 3
     },
     {
       "id": 4,
       "name": "Notebook i5",
-      "precio": 120000,
       "stock": 17
     },
     {
       "id": 5,
       "name": "Kindle Paperwhite",
-      "precio": 19000,
       "stock": 42
     }
   ],
